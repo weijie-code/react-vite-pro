@@ -1,2 +1,1 @@
-# react-vite-pro
-react项目接入vite启动项目123
+#### react 接入vite项目模板
